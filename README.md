@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">IT Automation Systems Student and Developer from Kraków</h3>
-
+<h3 align="center">Full Stack Developer from Kraków</h3>
+- 🧑‍🎓 I am a graduate of the Faculty of Mechanical Engineering and Robotics AGH
 - 🌱 I’m currently learning **Clean Architecture, best database queries**
 - 🚀 I've mastered php and js the best.
 - 🎯 Goal: full-time job as a php programmer.
@@ -25,8 +25,11 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
   </a>
-   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/js/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
