@@ -1,8 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">IT Automation Systems Student and Developer from Poland</h3>
+<h1 align="center">Hi 👋, I'm Jan</h1>
+<h3 align="center">IT Automation Systems Student and Developer from Kraków</h3>
 
-- 🌱 I’m currently learning **Clean Architecture, AI Algorithms, Embedded Systems**
-- 🚀 I'm mastering **PHP (it's not dead! 😁)**.
+- 🌱 I’m currently learning **Clean Architecture, best database queries**
+- 🚀 I've mastered php and js the best.
+- 🎯 Goal: full-time job as a php programmer.
+
+  
+<h3 align="left">PORTFOLIO</h3>
+  <ul>
+    <li>
+      <a href="https://github.com/JanMadon/e-commerce">E-commerce shop</a>
+      <a href="http://16.171.165.218/shop">check live</a>
+      
+    </li>
+    <li>
+      <a href="https://github.com/abieniek03/social-links">Social Links</a> 
+    </li>
+    <li>
+      <a href="https://github.com/abieniek03/go-form">Go Form</a>
+    </li>
+  </ul>
+  
 - 👨‍💻 My website [zolisz.pl](https://www.zolisz.pl)
 
 <h3 align="left">Connect with me:</h3>
