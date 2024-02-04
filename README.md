@@ -3,14 +3,14 @@
 
 - 🧑‍🎓 I'm a graduate of the Faculty of Mechanical Engineering and Robotics AGH
 
-- 🌱 I’m currently learning **Clean Architecture, best database queries**
+- 🌱 I’m currently learning **Clean Architecture, Best database queries**
   
 - 🚀 I've mastered php and js the best.
   
 - 🎯 Goal: full-time job as a php programmer.
 
   
-<h3 align="left">📁 Latest projects</h3>
+<h3 align="left">📁 Recent projects</h3>
   <ul>
     <li>
       <a href="https://github.com/JanMadon/e-commerce">E-commerce shop</a> , 
