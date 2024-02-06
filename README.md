@@ -14,7 +14,7 @@
   <ul>
     <li>
       <a href="https://github.com/JanMadon/e-commerce">E-commerce shop</a> , 
-      <a href="https://janmdev/shop">check live</a>
+      <a href="https://janmdev.pl/shop">check live</a>
     </li>
     <li>
       <a href="https://github.com/JanMadon/File-Menager">File-manager</a> 
