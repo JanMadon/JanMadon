@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Clean Architecture, Best database queries**
   
-- 🚀 I've mastered php and js the best.
+- 🚀 I've mastered php and JS.
   
 - 🎯 Goal: full-time job as a php programmer.
 
